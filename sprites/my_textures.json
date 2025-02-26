@@ -1,31 +1,31 @@
 {
   "dalmatian-light-spots": {
-    "height": 52,
+    "height": 5,
     "pixelRatio": 1,
-    "width": 78,
+    "width": 8,
     "x": 600,
     "y": 0
   },
   "dalmatian-spots": {
-    "height": 52,
+    "height": 5,
     "pixelRatio": 1,
-    "width": 78,
-    "x": 678,
+    "width": 8,
+    "x": 608,
     "y": 0
   },
   "diagonal-lines": {
     "height": 6,
     "pixelRatio": 1,
     "width": 6,
-    "x": 776,
+    "x": 616,
     "y": 0
   },
   "polka-dots": {
-    "height": 20,
+    "height": 2,
     "pixelRatio": 1,
-    "width": 20,
-    "x": 756,
-    "y": 0
+    "width": 2,
+    "x": 600,
+    "y": 5
   },
   "topography": {
     "height": 600,
