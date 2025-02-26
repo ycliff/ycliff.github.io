@@ -20,11 +20,18 @@
     "x": 616,
     "y": 0
   },
+  "diagonal-lines-text": {
+    "height": 6,
+    "pixelRatio": 1,
+    "width": 6,
+    "x": 600,
+    "y": 5
+  },
   "polka-dots": {
     "height": 2,
     "pixelRatio": 1,
     "width": 2,
-    "x": 600,
+    "x": 606,
     "y": 5
   },
   "topography": {
