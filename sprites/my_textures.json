@@ -1,0 +1,30 @@
+{
+  "dalmatian-spots": {
+    "height": 600,
+    "pixelRatio": 1,
+    "width": 900,
+    "x": 0,
+    "y": 0
+  },
+  "diagonal-lines": {
+    "height": 6,
+    "pixelRatio": 1,
+    "width": 6,
+    "x": 1520,
+    "y": 0
+  },
+  "polka-dots": {
+    "height": 20,
+    "pixelRatio": 1,
+    "width": 20,
+    "x": 1500,
+    "y": 0
+  },
+  "topography": {
+    "height": 600,
+    "pixelRatio": 1,
+    "width": 600,
+    "x": 900,
+    "y": 0
+  }
+}
