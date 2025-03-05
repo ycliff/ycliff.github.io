@@ -3,14 +3,21 @@
     "height": 6,
     "pixelRatio": 1,
     "width": 6,
-    "x": 607,
+    "x": 1007,
+    "y": 0
+  },
+  "natural-paper": {
+    "height": 400,
+    "pixelRatio": 1,
+    "width": 400,
+    "x": 600,
     "y": 0
   },
   "polka-dots": {
     "height": 7,
     "pixelRatio": 1,
     "width": 7,
-    "x": 600,
+    "x": 1000,
     "y": 0
   },
   "topography": {
