@@ -1,17 +1,24 @@
 {
+  "cross": {
+    "height": 7,
+    "pixelRatio": 1,
+    "width": 7,
+    "x": 1000,
+    "y": 0
+  },
+  "cross-diagonal": {
+    "height": 6,
+    "pixelRatio": 1,
+    "width": 6,
+    "x": 1000,
+    "y": 7
+  },
   "diagonal-lines": {
     "height": 6,
     "pixelRatio": 1,
     "width": 6,
-    "x": 1007,
-    "y": 0
-  },
-  "dots-t": {
-    "height": 119,
-    "pixelRatio": 1,
-    "width": 119,
-    "x": 600,
-    "y": 400
+    "x": 1006,
+    "y": 7
   },
   "natural-paper-transparent": {
     "height": 400,
@@ -20,11 +27,18 @@
     "x": 600,
     "y": 0
   },
+  "pill": {
+    "height": 7,
+    "pixelRatio": 1,
+    "width": 7,
+    "x": 1007,
+    "y": 0
+  },
   "polka-dots": {
     "height": 7,
     "pixelRatio": 1,
     "width": 7,
-    "x": 1000,
+    "x": 1014,
     "y": 0
   },
   "topography": {
