@@ -11,14 +11,14 @@
     "pixelRatio": 1,
     "width": 6,
     "x": 1000,
-    "y": 7
+    "y": 14
   },
   "diagonal-lines": {
     "height": 6,
     "pixelRatio": 1,
     "width": 6,
     "x": 1006,
-    "y": 7
+    "y": 14
   },
   "natural-paper-transparent": {
     "height": 400,
@@ -47,5 +47,40 @@
     "width": 600,
     "x": 0,
     "y": 0
+  },
+  "white-cross": {
+    "height": 7,
+    "pixelRatio": 1,
+    "width": 7,
+    "x": 1000,
+    "y": 7
+  },
+  "white-cross-diagonal": {
+    "height": 6,
+    "pixelRatio": 1,
+    "width": 6,
+    "x": 1012,
+    "y": 14
+  },
+  "white-diagonal-lines": {
+    "height": 6,
+    "pixelRatio": 1,
+    "width": 6,
+    "x": 1018,
+    "y": 14
+  },
+  "white-pill": {
+    "height": 7,
+    "pixelRatio": 1,
+    "width": 7,
+    "x": 1007,
+    "y": 7
+  },
+  "white-polka-dots": {
+    "height": 7,
+    "pixelRatio": 1,
+    "width": 7,
+    "x": 1014,
+    "y": 7
   }
 }
