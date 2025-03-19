@@ -6,19 +6,19 @@
     "x": 1007,
     "y": 0
   },
-  "natural-paper": {
-    "height": 400,
+  "dots-t": {
+    "height": 119,
     "pixelRatio": 1,
-    "width": 400,
+    "width": 119,
     "x": 600,
-    "y": 0
+    "y": 400
   },
   "natural-paper-transparent": {
     "height": 400,
     "pixelRatio": 1,
     "width": 400,
     "x": 600,
-    "y": 400
+    "y": 0
   },
   "polka-dots": {
     "height": 7,
